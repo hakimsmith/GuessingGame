@@ -9,7 +9,16 @@ namespace Guessing_Game
 
             string message = "Hello World";
 
-            Console.WriteLine("message");
+            Console.WriteLine(message);
+
+            string fairwell = "Goodbye World";
+
+            Console.WriteLine(fairwell);
+
+           
+
+                 
+             
         }
     }
 }
